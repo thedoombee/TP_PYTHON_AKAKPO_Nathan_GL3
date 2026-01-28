@@ -1,0 +1,5 @@
+ Résultats 
+Nombre de notes : 6
+Notes : [15.0, 12.0, 14.0, 16.0, 11.0, 13.0]
+Moyenne : 13.5
+Résultat : ADMIS
